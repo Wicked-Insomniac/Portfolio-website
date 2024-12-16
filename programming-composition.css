@@ -1,0 +1,24 @@
+.prog-comp {
+    padding: 2rem 0;
+    background: linear-gradient(to left, #BC7FCD, #ffffff);
+}
+
+.prog-comp-hd {
+    font-family: "League Spartan", sans-serif;
+    font-size: 2rem;
+    text-align: left;
+    font-weight: bolder;
+    color: #563d7c;
+}
+
+.prog-comp-des {
+    font-family: Arial, sans-serif;
+    color: #86469c;
+    font-size: 1rem;
+    text-align: left;
+}
+
+.prog-comp-img {
+    height: 16rem;
+    background-color: #86469c;
+}

@@ -1,0 +1,57 @@
+.contact-div {
+    padding: 2rem 0;
+    height: 30rem;
+    background: linear-gradient(to left, #BC7FCD, #ffffff);
+
+}
+
+.contact-divs {
+    padding: 1rem;
+}
+
+.contact-left {
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; /* Center horizontally */  
+    align-items: center;
+    height: 25rem;
+}
+
+.con-para-1 {
+    font-family: "League Spartan", sans-serif;
+    font-size: 2rem;
+    font-weight: bolder;
+    color: #563d7c;
+}
+
+.con-para-2 {
+    font-family: "League Spartan", sans-serif;
+    font-size: 2rem;
+    font-weight: bolder;
+    color: #86469c;
+}
+
+.con-para-3 {
+    font-family: "League Spartan", sans-serif;
+    font-size: 2rem;
+    font-weight: bolder;
+    color: #bc7fcd;
+}
+
+.contact-right {
+    background-color: #d3d3d3;
+    height: 25rem;
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; /* Center horizontally */  
+    align-items: center;
+}
+
+.contact-me-box {
+    height: 23rem;
+    width: 18rem;
+    background-color: #ffffff;
+    border-radius: 1rem;
+    border: solid 2px #cfabd8;
+    padding: 2rem;
+}

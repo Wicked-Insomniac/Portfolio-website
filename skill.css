@@ -1,0 +1,45 @@
+.expertise {
+    padding: 2rem 0;
+    background: linear-gradient(to right, #BC7FCD, #ffffff);
+}
+
+.exp-hed {
+    margin-bottom: 2rem;
+}
+
+.expertise-img {
+    height: 10rem;
+    background-color: #563d7c;
+    color: #ffffff;
+}
+
+.my-skill-headline {
+    font-family: "League Spartan", sans-serif;
+    font-size: 2rem;
+    text-align: left;
+    font-weight: bolder;
+    color: #bc7fcd;
+}
+
+.chunk-1 {
+    color: #563d7c;
+}
+
+.exp {
+    font-family: "League Spartan", sans-serif;
+    font-size: 2rem;
+    font-weight: bolder;
+    color: #563d7c;
+}
+
+.exp-technologies {
+    height: 6rem;
+    background: linear-gradient(to left, #BC7FCD, #ffffff);
+    border-radius: 0.5rem;  
+    transition: box-shadow 0.3s ease; 
+    cursor: pointer;
+}
+
+.exp-technologies:hover {
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5)
+}

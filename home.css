@@ -1,0 +1,56 @@
+.top-page {
+    background: linear-gradient(to bottom, #BC7FCD, #ffffff);
+    padding: 2rem;
+    margin-top: -23px;
+    /*background-image: url('images/1.png');
+    background-repeat: repeat; /* Repeat it to fill the area */  
+    /*height: 768px; /* Set a height for the div */  
+    /*width: 100%;*/
+}
+
+.intro-text {
+    font-family: "League Spartan", sans-serif;
+    text-align: left;
+    font-weight: 700;
+    font-size: 2.1rem;
+    line-height: 2.4rem;
+    margin-top: 3rem;
+    text-shadow:   
+       0 0 5px #ffffff,  /* Red outer glow */  
+       0 0 10px #BC7FCD,  
+       0 0 15px #8813a8;
+}
+
+.secondary-intro-text {
+    font-family: Arial, sans-serif;
+    color: #86469c;
+    text-align: left;
+    font-size: 1rem;
+    font-style:italic;
+    margin-top: 2rem;
+}
+
+.contact-button-2{
+    color: white;
+    background-color: #BC7FCD;
+    border: none;
+    font-family: "League Spartan", sans-serif;
+    font-weight: bold;
+    padding: 0.5rem 1.1rem;
+    border-radius: 0.5rem;
+    text-align: left;
+    text-align: left; /* Use for basic text alignment */  
+    /* OR */  
+    display: flex; /* Uncomment to use Flexbox instead */  
+    flex-direction: column;  
+    align-items: flex-start;
+    margin-top: 2rem;
+    transition: background-color 0.3s ease, transform 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+    border: 2px solid transparent;
+}
+
+.contact-button-2:hover {
+    background-color: #c597d1;
+    color: #8813a8;
+    border-color:#8813a8;
+}
